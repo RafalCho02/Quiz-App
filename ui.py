@@ -9,6 +9,7 @@ class QuizInterface:
         self.window = Tk()
         self.window.title("Quiz app")
         self.ico = PhotoImage(file='brain.png')
+        self.window.resizable(False, False)
         self.window.iconphoto(False, self.ico)
         self.window.config(padx=20, pady=20, bg=THEME_COLOR)
 
