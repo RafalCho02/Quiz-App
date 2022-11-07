@@ -1,6 +1,6 @@
 # Quiz-App
 Quiz-App is Application based on Trivia questions bank.The application has a large database of questions, which means that the questions are rarely repeated.
-In a series of 10 questions, no question is ever repeated
+In a series of 10 questions, no question is ever repeated.When you download the application, you will be able to spend a nice time solving the quizzes.
 
 What the application looks like:
 
